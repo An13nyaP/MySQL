@@ -18,4 +18,4 @@ This repository contains a detailed, example-driven guide to MySQL, from core ba
 | 11     | Data Warehousing SQL | SQL for analytical and large-scale systems |
 
 
-🛠 Built with ❤️ by Ananya   
+🛠 Built with ❤️  
